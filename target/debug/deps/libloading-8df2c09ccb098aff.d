@@ -1,0 +1,12 @@
+/Users/kody/Documents/github/ai/learn-burn/target/debug/deps/liblibloading-8df2c09ccb098aff.rmeta: /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/lib.rs /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/changelog.rs /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/os/mod.rs /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/os/unix/mod.rs /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/os/unix/consts.rs /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/util.rs /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/error.rs /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/safe.rs
+
+/Users/kody/Documents/github/ai/learn-burn/target/debug/deps/libloading-8df2c09ccb098aff.d: /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/lib.rs /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/changelog.rs /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/os/mod.rs /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/os/unix/mod.rs /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/os/unix/consts.rs /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/util.rs /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/error.rs /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/safe.rs
+
+/Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/lib.rs:
+/Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/changelog.rs:
+/Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/os/mod.rs:
+/Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/os/unix/mod.rs:
+/Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/os/unix/consts.rs:
+/Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/util.rs:
+/Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/error.rs:
+/Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/safe.rs:

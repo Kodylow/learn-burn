@@ -1,0 +1,12 @@
+/Users/kody/Documents/github/ai/learn-burn/target/debug/deps/libtempfile-5e55b50174fa824e.rmeta: /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/lib.rs /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/dir.rs /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/error.rs /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/mod.rs /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/imp/mod.rs /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/spooled.rs /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/util.rs /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/imp/unix.rs
+
+/Users/kody/Documents/github/ai/learn-burn/target/debug/deps/tempfile-5e55b50174fa824e.d: /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/lib.rs /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/dir.rs /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/error.rs /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/mod.rs /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/imp/mod.rs /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/spooled.rs /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/util.rs /Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/imp/unix.rs
+
+/Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/lib.rs:
+/Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/dir.rs:
+/Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/error.rs:
+/Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/mod.rs:
+/Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/imp/mod.rs:
+/Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/spooled.rs:
+/Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/util.rs:
+/Users/kody/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/imp/unix.rs:

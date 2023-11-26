@@ -1,0 +1,1 @@
+/Users/kody/Documents/github/ai/learn-burn/target/debug/learn-burn: /Users/kody/Documents/github/ai/learn-burn/src/data.rs /Users/kody/Documents/github/ai/learn-burn/src/main.rs /Users/kody/Documents/github/ai/learn-burn/src/model.rs /Users/kody/Documents/github/ai/learn-burn/src/training.rs
